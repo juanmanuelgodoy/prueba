@@ -37,6 +37,9 @@ public class Persona {
 	public String toString() {
 		return "Persona [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + "]";
 	}
+	public Persona() {
+		
+	}
 	
 	
 	
