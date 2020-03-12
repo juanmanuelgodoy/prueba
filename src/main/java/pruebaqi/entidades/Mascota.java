@@ -33,6 +33,10 @@ public class Mascota {
 	public void setRaza(String raza) {
 		this.raza = raza;
 	}
+	@Override
+	public String toString() {
+		return "Mascota [id=" + id + ", nombre=" + nombre + ", raza=" + raza + "]";
+	}
 	
 	
 }
