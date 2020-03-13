@@ -37,6 +37,9 @@ public class Mascota {
 	public String toString() {
 		return "Mascota [id=" + id + ", nombre=" + nombre + ", raza=" + raza + "]";
 	}
+	public Mascota() {
+		
+	}
 	
 	
 }
