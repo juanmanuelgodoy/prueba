@@ -5,7 +5,7 @@ import javax.transaction.Transactional;
 import org.springframework.stereotype.Service;
 
 @Service
-public class PersonaServicio {
+public class PersonaServicios {
 
 	@Transactional
     public void eliminarPersona(String id) {
