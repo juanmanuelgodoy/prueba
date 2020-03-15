@@ -35,6 +35,11 @@ public class Foto {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+	
+	
+		public Foto() {
+		
+	}
 		@Override
 		public String toString() {
 			return "Foto [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + "]";
