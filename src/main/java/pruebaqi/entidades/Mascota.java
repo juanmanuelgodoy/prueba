@@ -41,5 +41,9 @@ public class Mascota {
 		
 	}
 	
+	public Mascota() {
+		super ();
+		
+	}
 	
 }
