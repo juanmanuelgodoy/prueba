@@ -39,6 +39,9 @@ public class Foto {
 		public String toString() {
 			return "Foto [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + "]";
 	}
+		public Foto() {
+			super();
+		}
 	
 	
 }
