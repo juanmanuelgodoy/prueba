@@ -16,6 +16,6 @@ public class Administrador {
 		this.nombre = nombre;
 		this.apellido = apellido;
 	}
-	
+Falta hacer el to String	
 	
 }
